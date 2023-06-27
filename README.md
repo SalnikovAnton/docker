@@ -11,7 +11,7 @@ mkdir ./docker
 cd ./docker
 
 ```
-Создаем необходимые файлы, такие как Dockerfile , две статичные web-страницы [index1.html](https://github.com/SalnikovAnton/docker/blob/main/index1.html "index1.html"), [index2.html](https://github.com/SalnikovAnton/docker/blob/main/index2.html "index2.html") и файл конфигурации [nginx.conf](https://github.com/SalnikovAnton/docker/blob/main/nginx.conf "nginx.conf")
+Создаем необходимые файлы, такие как  [Dockerfile](https://github.com/SalnikovAnton/docker/blob/main/Dockerfile "Dockerfile"), две статичные web-страницы [index1.html](https://github.com/SalnikovAnton/docker/blob/main/index1.html "index1.html"), [index2.html](https://github.com/SalnikovAnton/docker/blob/main/index2.html "index2.html") и файл конфигурации [nginx.conf](https://github.com/SalnikovAnton/docker/blob/main/nginx.conf "nginx.conf")
    
 Собераем Docker образ
 ```
